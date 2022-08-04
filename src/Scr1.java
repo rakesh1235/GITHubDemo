@@ -6,5 +6,7 @@ public class Scr1 {
 		System.out.println("New Demo Project");
 		System.out.println("New Demo Project1");
 	}
-
+  public void practice() {
+	System.out.println("Hello World");
+  }
 }
