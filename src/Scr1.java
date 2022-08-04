@@ -5,5 +5,7 @@ public class Scr1 {
 		// TODO Auto-generated method stub
 		System.out.println("New Demo Project");
 	}
-
+  public void practice() {
+	System.out.println("Hello World");
+  }
 }
